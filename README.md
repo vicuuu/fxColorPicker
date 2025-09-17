@@ -1,5 +1,12 @@
 # 🌈 fxColorPicker
-Color picker for Multi Theft Auto
+Color picker for Multi Theft Auto 
+
+<br>
+
+## ✨ About
+- Live preview **demo**
+- **SV (Saturation, Value) square** + vertical **H (Hue)** bar
+- **Clipboard copy** — click the preview bar to copy `"R,G,B  #HEX"`
 
 <br>
 
