@@ -1,0 +1,5 @@
+<meta>
+    <script src='utils.lua' type='client'/>
+    <script src='colorpicker.lua' type='client'/>
+    <file src='colorpicker.fx' type='client'/>
+</meta>
